@@ -1,3 +1,7 @@
 {
-    "Review": "Review"
+    "Nombre": "Name",
+    "Pais": "Country",
+    "Genero":"Genre",
+    "Fundacion": "Creation",
+    "ListadoDeBandas":"Bands List"
 }
